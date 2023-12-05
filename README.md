@@ -11,7 +11,7 @@ Visualização de Dados 📊
 -Idiomas🗣
 Português (nativo) br   
 
-📚 Meus principais interesses na área d e Ciência de Dados são:    
+📚 Meus principais interesses na área de Ciência de Dados são:    
 
 Aprendizado de Máquina (Machine Learning) 🧠
 Processamento de Linguagem Natural (Natural Language Processing) 🗣️
